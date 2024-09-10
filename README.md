@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GOPALA RAM JYANI</h1>
 <h3 align="center">Software Engineering</h3>
 <p align="center">
-  <img src="[gopalaramjynai.gif](https://github.com/gopaljyani2005/gopaljyani2005/blob/main/gopalaramjyani.gif)" alt="Gopala Ram Jyani" width="200" height="200" />
+  <img src="https://github.com/gopaljyani2005/gopaljyani2005/blob/main/gopalaramjyani.gif" alt="Gopala Ram Jyani" width="200" height="200" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
